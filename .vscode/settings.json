@@ -2,5 +2,13 @@
     "files.watcherExclude": {
         "**/target": true
     },
-    "snyk.advanced.autoSelectOrganization": true
+    "snyk.advanced.autoSelectOrganization": true,
+    "maven.executable.path": "C:\\Users\\dopar\\Downloads\\apache-maven-3.9.15-bin\\apache-maven-3.9.15\\bin\\mvn.cmd",
+    "java.configuration.maven.userSettings": "",
+    "terminal.integrated.env.windows": {
+        "M2_HOME": "C:\\Users\\dopar\\Downloads\\apache-maven-3.9.15-bin\\apache-maven-3.9.15",
+        "MAVEN_HOME": "C:\\Users\\dopar\\Downloads\\apache-maven-3.9.15-bin\\apache-maven-3.9.15",
+        "PATH": "C:\\Users\\dopar\\Downloads\\apache-maven-3.9.15-bin\\apache-maven-3.9.15\\bin;${env:PATH}"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
